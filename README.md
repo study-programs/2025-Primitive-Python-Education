@@ -1,1 +1,1 @@
-# 2025 Primitibe Python Education
+# 2025 Primitive Python Education
