@@ -1,4 +1,4 @@
-## Random Number Guessing Game
+## Heart Breaker
 ### Problem
 ```
 별찍기를 사용하여 하트를 출력하는 프로그램을 작성하세요.
